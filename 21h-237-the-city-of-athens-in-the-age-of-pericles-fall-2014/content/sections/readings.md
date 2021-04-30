@@ -1,0 +1,43 @@
+---
+course_id: 21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014
+layout: course_section
+menu:
+  leftnav:
+    identifier: 535cc74f6d3da9e5d74a195c250ab244
+    name: Readings
+    weight: 40
+title: Readings
+type: course
+uid: 535cc74f6d3da9e5d74a195c250ab244
+
+---
+
+\[H\] = Hurwit, Jeffrey M. _The Acropolis in the Age of Pericles_. Cambridge University Press, 2004. ISBN: 9780521527408.
+
+\[S\] = Samons II, Loren J., ed. _The Cambridge Companion to the Age of Pericles_. Cambridge University Press, 2007. ISBN: 9780521003896. \[Preview with [Google Books](http://books.google.com/books?id=QAePyZ_Z1WkC&pg=PAfrontcover)\]
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | Introduction: Space and Society in Ancient Athens | No readings assigned |
+| 2 | Pericles and the _Polis_ |  {{< br >}}{{< br >}} \[S\] "Introduction: Athenian History and Society in the Age of Pericles." {{< br >}}{{< br >}} Plutarch. "Pericles." In _Greek Lives_. Translated by Robin Waterfield. Oxford Paperbacks, 2009. ISBN: 9780199540051. {{< br >}}{{< br >}}  |
+| 3 | The Rise of the Athenian Empire |  {{< br >}}{{< br >}} Herodotus. "Book 6: Sections 102–20," "Book 7: Sections 138–48," and "Book 8: Sections 21–112". In _The Histories_. Translated by Aubrey de Selincourt. Revised with Introduction and Notes by John Marincola. Penguin Classics, 2003. ISBN: 9780140449082. {{< br >}}{{< br >}} Thucydides. "Book One: The Pentecontaetia." In _History of the Peloponnesian War_. Translated by Rex Warner, with an Introduction and Notes by M. I. Finley. Penguin Classics, 1972. ISBN: 9780140440393. {{< br >}}{{< br >}}  |
+| 4 | The Democratic Revolution |  {{< br >}}{{< br >}} Aristotle. "The Constitution of the Athens." In _Aristotle and Xenophon on Democracy and Oligarchy_. Translations with Introductions and Commentary by J. M. Moore. University of California Press, 2010. ISBN: 9780520266056. {{< br >}}{{< br >}} \[S\] Rhodes, P. J. Chapter 2: Democracy and Empire. {{< br >}}{{< br >}}  |
+| 5 | The Athenian Agora |  {{< br >}}{{< br >}} Millett, Paul. "Encounters in the Agora." Chapter 12 in _Kosmos: Essays in Order, Conflict and Community in Classical Athens_. Edited by Paul Cartledge, Paul Millett, and Sitta von Reden. Cambridge University Press, 2002. ISBN: 9780521525930. \[Preview with [Google Books](http://books.google.com/books?id=1TaEK1CgR9AC&pg=PA205=onepage)\] {{< br >}}{{< br >}} \[S\] Kallet, Lisa. Chapter 3: The Athenian Economy. {{< br >}}{{< br >}}  |
+| 6 | Democracy in Action |  {{< br >}}{{< br >}} Moore, J. M., ed. "The Constitution of the Athens: Commentary." In _Aristotle and Xenophon on Democracy and Oligarchy_. University of California Press, 2010. ISBN: 9780520266056. {{< br >}}{{< br >}} \[S\] Sealey, R. Chapter 10: Democratic Theory and Practice. {{< br >}}{{< br >}}  |
+| 7 | The Athenians and their Gods |  {{< br >}}{{< br >}} \[S\] Boedeker, Deborah. Chapter 2: Athenian Religion in the Age of Pericles. {{< br >}}{{< br >}}  |
+| 8 | Panathenaea: Festival of Athena |  {{< br >}}{{< br >}} \[H\] Chapter 1: The Rock and the Goddess. {{< br >}}{{< br >}} Neils, Jenifer. "The Panathenaia: An Introduction." In _Goddess and Polis: The Panathenaic Festival in Ancient Athens_. Princeton University Press, 1993. ISBN: 9780691002231. {{< br >}}{{< br >}}  |
+| 9 | The Athenian Acropolis I |  {{< br >}}{{< br >}} \[H\] Chapter 3: Pericles, Athens, and the Building Program. {{< br >}}{{< br >}} \[H\] Chapter 4: The Parthenon. {{< br >}}{{< br >}} \[H\] Chapter 5: The Propylaia. {{< br >}}{{< br >}}  |
+| 10 | The Athenian Acropolis II |  {{< br >}}{{< br >}} \[H\] Chapter 6: The Erechtheion: The Classical Temple of Athena Polias. {{< br >}}{{< br >}} \[H\] Chapter 7: The Sanctuary of Athena Nike. {{< br >}}{{< br >}} \[H\] Chapter 8: The Rest of the Program. {{< br >}}{{< br >}}  |
+| 11 | Reading the Acropolis |  {{< br >}}{{< br >}} \[H\] Chapter 9: Conclusion. The Periclean Acropolis as a Whole. {{< br >}}{{< br >}} Neils, Jenifer. "Iconologia: Interpreting the Frieze." Chapter 6 in _The Parthenon Frieze_. Cambridge University Press, 2006. ISBN: 9780521684026. {{< br >}}{{< br >}}  |
+| 12 | The City Dionysia: The Theater and Festival of Dionysus |  {{< br >}}{{< br >}} \[S\] Henderson, Jeffrey. Chapter 7: Drama and Democracy. {{< br >}}{{< br >}} Osborne, Robin. "Competitive Festivals and the Polis: A Context for Dramatic Festivals at Athens." Chapter 8 in _Athenian Democracy_. Edited by P. J. Rhodes. Oxford University Press, 2004. ISBN: 9780195221404. \[Preview with [Google Books](http://books.google.com/books?id=GIEbW5w8klsC&pg=PA207=onepage)\] {{< br >}}{{< br >}}  |
+| 13 | Tragedy |  {{< br >}}{{< br >}} Sophocles. "Antigone." In _Antigone, Oedipus the King, and Electra_. Translated by H. D. F. Kitto. Edited with an Introduction and Notes by Edith Hall. Oxford's Paperbacks, 2009. ISBN: 9780199537174. {{< br >}}{{< br >}} Hall, Edith, ed. "Explanatory Notes: Antigone." In _Antigone, Oedipus the King, and Electra_. Translated by H. D. F. Kitto. Oxford's Paperbacks, 2009. ISBN: 9780199537174. {{< br >}}{{< br >}}  |
+| 14 | Comedy |  {{< br >}}{{< br >}} Aristophanes. "Birds." In _Birds and Other Plays_. Translated with an Introduction and Notes by Stephen Halliwell. Oxford's Paperbacks, 2009. ISBN: 9780199555673. {{< br >}}{{< br >}} Halliwell, Stephen. "Explanatory Notes: Birds." In _Birds and Other Plays_. Translated with an Introduction and Notes by Stephen Halliwell. Oxford's Paperbacks, 2009. ISBN: 9780199555673. {{< br >}}{{< br >}}  |
+| 15 | Gymnasia |  {{< br >}}{{< br >}} Wycherley, R. E. "[Peripatos: The Athenian Philosophical Scene–II](http://www.jstor.org/stable/640740)." _Greece & Rome_ 9, no. 1 (1962): 2–21. {{< br >}}{{< br >}} Fisher, Nick. "Gymnasia and the Democratic Values of Leisure." Chapter 6 in _Kosmos: Essays in Order, Conflict and Community in Classical Athens_. Edited by Paul Cartledge, Paul Millett, and Sitta von Reden. Cambridge University Press, 2002. ISBN: 9780521525930. \[Preview with [Google Books](http://books.google.com/books?id=1TaEK1CgR9AC&pg=PA84=onepage)\] {{< br >}}{{< br >}}  |
+| 16 | Greek Domestic Space |  {{< br >}}{{< br >}} Tsakirgis, Barbara. "Living Near the Agora: Houses and Households in Central Athens." In _The Athenian Agora: New Perspectives on an Ancient Site_. Edited by John McK. Camp II and Craig A. Mauzy. American School of Classical Studies at Athens, 2010. ISBN: 9783805340823. {{< br >}}{{< br >}} Jameson, Michael. "Private Space and the Greek City." Chapter 7 in _The Greek City: From Homer to Alexander_. Edited by Oswyn Murray and Simon Price. Clarendon Press, 1991. ISBN: 9780198147916. \[Preview with [Google Books](http://books.google.com/books?id=A1t8DIkBpxUC&pg=PA171=onepage)\] {{< br >}}{{< br >}} Nevett, Lisa C. "A Space for 'Hurling the Furniture'? Architecture and the Development of Greek Domestic Symposia." Chapter 3 in _Domestic Space in Classical Antiquity_. Cambridge University Press, 2010. ISBN: 9780521789455. \[Preview with [Google Books](http://books.google.com/books?id=ru0jXj6A_9IC&pg=PA43=onepage)\] {{< br >}}{{< br >}}  |
+| 17 | Symposium |  {{< br >}}{{< br >}} Plato. "Symposium: Translated by Seth Benardete." In _The Dialogues of Plato_. Bantam Classics, 1986. ISBN: 9780553213713. {{< br >}}{{< br >}}  |
+| 18 | The Peloponnesian War |  {{< br >}}{{< br >}} Thucydides. "Book Two: Pericles' Funeral Oration," "Book Three: The Mytilenian Debate," "Book Five: The Melian Dialogue," and "Book Six: Launching of the Sicilian Expedition." In _History of the Peloponnesian War_. Translated by Rex Warner, with an Introduction and Notes by M. I. Finley. Penguin Classics, 1972. ISBN: 9780140440393. {{< br >}}{{< br >}} \[S\] Lendon, J. E. Chapter 11: Athens and Sparta and the Coming of the Peloponnesian War. {{< br >}}{{< br >}}  |
+| 19 |  {{< br >}}{{< br >}} Panhellenic Athens I: Delphi {{< br >}}{{< br >}}  | No readings assigned; work on final project |
+| 20 | Pythian Apollo and the Delphic Oracle |  {{< br >}}{{< br >}} Lloyd-Jones, Hugh. "[The Delphic Oracle](http://dx.doi.org/10.1017/S0017383500018283)." _Greece & Rome_ 23, no. 1 (1976): 60–73. {{< br >}}{{< br >}} Scott, Michael. "Oracle." Chapter 1 in _Delphi: A History of the Center of the Ancient World_. Princeton University Press, 2015. ISBN: 9780691169842. {{< br >}}{{< br >}}  |
+| 21 | Class Test | No readings assigned; work on final project |
+| 22 |  {{< br >}}{{< br >}} Panhellenic Athens II: Olympia and the Olympic Games {{< br >}}{{< br >}}  | No readings assigned; work on final project |
+| 23 | The Legacy of Classical Athens | No readings Assigned; work on final project
